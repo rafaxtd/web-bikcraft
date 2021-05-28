@@ -1,0 +1,38 @@
+/* Intro */
+
+.interno-sobre{
+  
+    background:url(/img/sobre/bg-sobre.jpg) no-repeat center;
+    background: cover;
+
+}
+
+.mission-sobre{
+
+    padding-top: 60px;
+    
+}
+.mission-sobre p{
+
+ 
+    font-size: 18px;
+    line-height:25px;
+    margin-bottom: .9em;
+    text-align: left;
+}
+.mission-sobre ul li{
+
+ 
+    font-size: 18px;
+    line-height:25px;
+  
+    text-align: left;
+}
+
+.img-sobre{
+
+    padding-top: 10px;
+  
+}
+
+

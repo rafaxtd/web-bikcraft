@@ -1,0 +1,159 @@
+/* Intro */
+
+.interno-contato{
+  
+    background:url(/img/contato/bg-contato.jpg) no-repeat center;
+    background: cover;
+    margin-bottom: 40px;
+
+
+
+}
+
+/* Area contato */
+
+.contato{
+   
+  
+    margin-top: 60px;
+}
+.contato h2{
+    color:#fec63e;
+   
+}
+
+.contato h2:after{
+    background:#fec63e;
+   
+}
+
+.form{
+    padding-right: 70px;
+}
+
+.form label{
+    
+   display: block; 
+   
+   font-size: 14px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   line-height:25px;
+   margin-bottom: 2px;
+}
+
+.form input{
+    display: block;
+    width: 400px;
+    border: 2px solid #fec63e;
+    background: none;
+    
+    padding: 10px 10px;
+    outline: none;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+.form textarea{
+    display: block;
+    width: 400px;
+    height: 150px;
+    border: 2px solid #fec63e;
+    background: none;
+    
+    padding: 5px 10px;
+    outline: none;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+
+.form button {
+
+    border:2px solid #fec63e;
+    padding: 2px 2px;
+    background: none;
+    font-size: 10px;
+    margin-bottom: 5px;
+    margin-left: 348px;
+    text-align: center;
+
+
+}
+
+.form button:hover {
+
+   border-color: #000;
+   color: #fff;
+}
+
+.contato-data{
+    color: #000;
+
+}
+
+.contato-data h3{
+
+    color: #fec63e;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    padding-top:10px;
+    margin-bottom:10px;
+    margin-left: 0;
+
+
+
+}
+
+.contato-data span, .contato-data p {
+
+    display: block;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 5px;
+    
+   
+   
+}
+
+.contato-data span:nth-of-type(even){
+
+   
+   
+    margin-bottom: 20px;
+   
+}
+
+.contato-data ul{
+    padding-right: 70px;
+    display: block;
+}
+
+.contato-data ul li{
+    
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    display: inline-block;
+    
+ 
+   
+}
+
+.contato-data ul li a:hover{
+    
+  border-color: #000;
+   
+}
+
+/* Mapa */
+
+.mapa {
+
+    padding-top: 40px;
+}
+
+

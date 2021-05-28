@@ -1,0 +1,216 @@
+/* Intro */
+
+.interno-produtos{
+  
+    background:url(/img/products/bg-produtos.jpg) no-repeat center;
+background: cover;
+
+}
+
+.passeio-produtos{
+    padding-top: 60px;
+   
+}
+
+.passeio-produtos h2{
+    font-size:40px;
+    text-transform: uppercase;
+    letter-spacing:.1em;
+    font-weight: bold;
+    position: relative;
+    top: -160px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: -50px;
+  
+
+}
+
+.passeio-produtos h2:after{
+    content:"";
+   display: block;
+   width:60px;
+   height: 3px;
+   background:#fff;
+   margin: 10px auto 10px auto;
+    
+
+}
+
+
+.product-icon {
+    background:#000 ;
+    padding: 80px 0;
+    border-radius: 50px;
+    
+   
+}
+
+.product-icon img{
+
+   
+    margin:0 auto;
+  
+}
+
+.box-products {
+    background:#000;
+}
+
+.box-products p{
+    color:#fff;
+    font-size:18px;
+    text-align: center;
+    line-height:25px;
+    padding:28px 40px;
+}
+
+.box-products ul li{
+    color:#000;
+    font-weight:bold;
+    
+    background:#fec63e;
+    text-transform: uppercase;
+    font-size:18px;
+    line-height:20px;
+    width:229px;
+    height:49px;
+    float: left;
+    text-align: center;
+    padding:15px;
+    max-width: 100%;
+}
+
+
+
+
+/* Black lines columns */
+.box-products ul li:nth-child(1), .box-products ul li:nth-child(2){
+    margin-bottom: 2px;
+}
+
+.box-products ul li:nth-child(odd){
+    margin-right: 2px;
+}
+
+/* Area Orcamento */
+
+.orcamento{
+    background:#000;
+    width:100%;
+    margin-top: 60px;
+}
+.orcamento h2{
+    color:#fec63e;
+   
+}
+
+.orcamento h2:after{
+    background:#fec63e;
+   
+}
+
+.form{
+    padding-right: 70px;
+}
+
+.form label{
+    
+   display: block; 
+   color: #fff;
+   font-size: 14px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   line-height:25px;
+   margin-bottom: 2px;
+}
+
+.form input{
+    display: block;
+    width: 400px;
+    border: 2px solid #fec63e;
+    background: none;
+    color: #fff;
+    padding: 5px 10px;
+    outline: none;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+.form textarea{
+    display: block;
+    width: 400px;
+    height: 150px;
+    border: 2px solid #fec63e;
+    background: none;
+    color: #fff;
+    padding: 10px 10px;
+    outline: none;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5px;
+}
+
+.form button {
+
+    border:2px solid #fec63e;
+    padding: 2px 2px;
+    background: none;
+    font-size: 10px;
+    margin-bottom: 5px;
+    margin-left: 348px;
+    text-align: center;
+
+
+}
+
+.form button:hover {
+
+   border-color: #fff;
+   color: #000;
+}
+
+.orcamento-data{
+    color: #fff;
+
+}
+
+.orcamento-data h3{
+    color: #fec63e;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: bold;
+    padding-top:10px;
+
+
+}
+
+.orcamento-data span, p{
+    display: block;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+
+.orcamento-data ul{
+    padding-right: 70px;
+    display: block;
+}
+
+.orcamento-data ul li{
+    
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:9px;
+ 
+   
+}
+
+.orcamento-data ul li:nth-child(odd){
+   background: #232627;
+   
+}
+
