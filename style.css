@@ -325,7 +325,7 @@ overflow: auto; /*clear fix - clean float*/
     width: 640px;
     height: 80px;
     display: block;
-    background:url("//img/home/lines.svg") no-repeat center;
+    background:url(/img/home/lines.svg) no-repeat center;
     position: absolute;
     top: 250px;
     right:160px;
