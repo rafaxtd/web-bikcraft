@@ -8,5 +8,5 @@ What I have used to build:
 
  - HTML;
  - JavaScript;
- - CSS; and
+ - CSS.
  
